@@ -1,5 +1,5 @@
-# Tutoriel Ruby on Rails : première application
+# Ruby on Rails tutorial : First application
 
-C'est la première application pour le 
-[*Tutoriel Ruby on Rails : Apprendre Rails par l'exemple*](http://railstutorial.org/) 
+First application for 
+[*Ruby on Rails tutorial : Learn Rails by Exemple*](http://railstutorial.org/) 
 de [Michael Hartl](http://michaelhartl.com/).
